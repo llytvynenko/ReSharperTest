@@ -14,7 +14,10 @@ namespace ReSharperTest
     {
         public void TestThis()
         {
-            
+        }
+
+        public static void AndThis()
+        {
         }
     }
 }
